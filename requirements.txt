@@ -1,0 +1,4 @@
+dask
+dask-jobqueue
+bokeh
+ipywidgets
